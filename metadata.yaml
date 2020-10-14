@@ -1,0 +1,30 @@
+_repo: La-societe-bordelaise-sous-Louis-XV-et-le-salon-de-Mme-Duplessy_63349
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Grellet-Dumazeau, André
+    aliases:
+    - Grellet-Dumazeau, Andre
+    - Grellet-Dumazeau, A. (André)
+    deathdate: 1909
+    gutenberg_agent_id: '51613'
+    url: http://www.gutenberg.org/2009/agents/51613
+description: ''
+gutenberg_issued: '2020-09-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63349'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DC'
+- !lcsh 'Bordeaux (Nouvelle-Aquitaine, France) -- Intellectual life'
+- !lcsh 'Bordeaux (Nouvelle-Aquitaine, France) -- History'
+- !lcsh 'Duplessy, Jeanne Marie Françoise de Chazot, 1702-1782'
+- !lcsh 'France -- History -- Louis XV, 1715-1774'
+- !lcsh 'Bordeaux (Nouvelle-Aquitaine, France) -- Social life and customs'
+- GITenberg
+title: La société bordelaise sous Louis XV et le salon de Mme Duplessy
+url: http://www.gutenberg.org/ebooks/63349
